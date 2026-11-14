@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is SoulSync?",
+    "answer": "SoulSync is a personal wellness application that helps users record their moods, write journal entries, and reflect on their emotional wellbeing."
+  },
+  {
+    "question": "What can I do with mood tracking?",
+    "answer": "Mood tracking lets you record your emotions so you can review your mood history and understand your emotional patterns."
+  },
+  {
+    "question": "What is the journal feature?",
+    "answer": "The journal feature lets you write and save personal journal entries with a title and written content."
+  },
+  {
+    "question": "What are Weekly Insights?",
+    "answer": "Weekly Insights summarizes your mood entries and journal entries from the last seven days. It shows mood counts, your most frequent mood, mood distribution, journal themes, and a reflection prompt."
+  },
+  {
+    "question": "How are journal themes identified in Weekly Insights?",
+    "answer": "Weekly Insights identifies themes by checking journal text for predefined keywords related to topics such as work and study, relationships, personal growth, stress, and motivation."
+  }
+]
